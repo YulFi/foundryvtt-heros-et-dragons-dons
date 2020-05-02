@@ -1,0 +1,21 @@
+{
+    "name": "heros-et-dragons-dons",
+    "title": "heros et dragons dons",
+    "description": "Dons de Héros et Dragons",
+    "author": "Rodskin",
+    "version": "0.0.1",
+    "compatibleCoreVersion": "0.5.5",
+    "minimumCoreVersion": "0.5.5",
+    "url": "https://github.com/rodskin",
+    "packs": [
+        {
+            "name": "h-d-dons",
+            "label": "h-d-dons",
+            "path": "packs/h-d-dons.db",
+            "entity": "Item",
+            "module": "heros-et-dragons-dons"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
